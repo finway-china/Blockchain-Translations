@@ -1141,7 +1141,7 @@
       }
    },
    "properties":{
-      "extends":"language"
+      "extends":"auto_chinese_simple"
    },
    "code":"zh-cn"
 }
